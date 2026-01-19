@@ -1,0 +1,7 @@
+{
+  "name": "UniPass: Hostel Outpass System",
+  "description": "A comprehensive digital outpass management system for students, wardens, and security guards with AI-powered risk assessment and validation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
